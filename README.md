@@ -2,7 +2,7 @@
 
 - Camara, Joenzsen Jonner
 - BS Computer Science (ICS UPLB)
-- https://doflamingo777.github.io/camara-u2l-exercise02/
+- https://doflamingo777.github.io/camara-u2l-exercise02/CamaraEx02.html
 - Steps on how to create your own Github page:
     1. Create your own repository
     2. On the menu bar, go to `Settings -> Pages`
