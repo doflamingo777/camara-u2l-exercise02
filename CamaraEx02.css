@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: whitesmoke;
+}
+
 /* css code in order to make navbar function properly */
 .navbar {
     background-color: maroon;
@@ -41,6 +45,7 @@
     font-size: 25px;
     font-weight: 600;
     text-align: center;
+    margin-top: 25px;
     /* background-color: aqua; */
 }
 
@@ -57,8 +62,18 @@
     border-radius: 10px;
 }
 
+.first_part{
+    display: flex;
+    /* background-color: lightgrey; */
+    padding: 10px;
+    margin-bottom: 35px;
+}
 
-.container, .first_part{
+.second_part{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container{
     display: flex;
     /* background-color: lightgrey; */
     padding: 10px;
@@ -104,6 +119,8 @@
 h2 {
     color: #333;
     font-size: 25px;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 ul {
@@ -113,6 +130,7 @@ ul {
 }
 
 li, p{
+    font-size: 18px;
     margin-bottom: 15px;
     font-weight: lighter;
 }
@@ -123,8 +141,8 @@ strong {
 
 
 
-.skills, .autobio{
-    font-family: Cambria, serif;
+.skills, .autobiography{
+    font-family:Cambria ,serif;
     font-size: 25px;
     font-weight: 600;
     text-align: center;
