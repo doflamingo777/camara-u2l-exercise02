@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: whitesmoke;
+    background-image: url('./photos/background.jpg');
 }
 
 /* css code in order to make navbar function properly */
