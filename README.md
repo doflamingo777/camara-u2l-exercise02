@@ -1,3 +1,5 @@
 # camara-u2l-exercise02
 
-To be updated soon.
+- Camara, Joenzsen Jonner
+- BS Computer Science (ICS UPLB)
+- 
